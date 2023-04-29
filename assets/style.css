@@ -1,0 +1,33 @@
+body {
+    background-color: lightslategray;
+}
+
+
+
+header {
+    background-color: brown;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+img {
+    width: 1000px;
+    height: 700px;
+}
+
+figcaption {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+footer {
+    background-color: brown;
+    color: white;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
