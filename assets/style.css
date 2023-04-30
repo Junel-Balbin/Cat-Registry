@@ -31,3 +31,7 @@ footer {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
 }
+
+form {
+    text-align: center;
+}
